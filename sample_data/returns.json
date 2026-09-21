@@ -1,0 +1,2370 @@
+[
+  {
+    "return_id": "R000001",
+    "order_id": "O000001",
+    "return_date": "2025-01-22",
+    "return_reason": "changed_mind",
+    "refund_amount": 147.17,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000002",
+    "order_id": "O000002",
+    "return_date": "2025-01-20",
+    "return_reason": "not_as_described",
+    "refund_amount": 190.66,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000003",
+    "order_id": "O000011",
+    "return_date": "2025-01-31",
+    "return_reason": "wrong_size",
+    "refund_amount": 198.78,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000004",
+    "order_id": "O000048",
+    "return_date": "2025-01-22",
+    "return_reason": "changed_mind",
+    "refund_amount": 59.55,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000005",
+    "order_id": "O000082",
+    "return_date": "2025-01-26",
+    "return_reason": "changed_mind",
+    "refund_amount": 41.55,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000006",
+    "order_id": "O000090",
+    "return_date": "2025-02-01",
+    "return_reason": "not_as_described",
+    "refund_amount": 382.92,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000007",
+    "order_id": "O000114",
+    "return_date": "2025-02-15",
+    "return_reason": "defective",
+    "refund_amount": 205.59,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000008",
+    "order_id": "O000126",
+    "return_date": "2025-01-26",
+    "return_reason": "changed_mind",
+    "refund_amount": 339.23,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000009",
+    "order_id": "O000129",
+    "return_date": "2025-02-14",
+    "return_reason": "defective",
+    "refund_amount": 96.11,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000010",
+    "order_id": "O000142",
+    "return_date": "2025-02-02",
+    "return_reason": "defective",
+    "refund_amount": 126.26,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000011",
+    "order_id": "O000148",
+    "return_date": "2025-01-25",
+    "return_reason": "defective",
+    "refund_amount": 236.98,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000012",
+    "order_id": "O000162",
+    "return_date": "2025-01-15",
+    "return_reason": "not_as_described",
+    "refund_amount": 371.34,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000013",
+    "order_id": "O000163",
+    "return_date": "2025-02-06",
+    "return_reason": "not_as_described",
+    "refund_amount": 384.88,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000014",
+    "order_id": "O000164",
+    "return_date": "2025-02-06",
+    "return_reason": "defective",
+    "refund_amount": 388.21,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000015",
+    "order_id": "O000216",
+    "return_date": "2025-01-10",
+    "return_reason": "not_as_described",
+    "refund_amount": 80.63,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000016",
+    "order_id": "O000250",
+    "return_date": "2025-02-03",
+    "return_reason": "not_as_described",
+    "refund_amount": 22.28,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000017",
+    "order_id": "O000261",
+    "return_date": "2025-01-26",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 196.62,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000018",
+    "order_id": "O000280",
+    "return_date": "2025-01-09",
+    "return_reason": "changed_mind",
+    "refund_amount": 91.52,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000019",
+    "order_id": "O000300",
+    "return_date": "2025-01-12",
+    "return_reason": "not_as_described",
+    "refund_amount": 50.0,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000020",
+    "order_id": "O000331",
+    "return_date": "2025-01-28",
+    "return_reason": "not_as_described",
+    "refund_amount": 39.22,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000021",
+    "order_id": "O000378",
+    "return_date": "2025-02-15",
+    "return_reason": "changed_mind",
+    "refund_amount": 135.34,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000022",
+    "order_id": "O000382",
+    "return_date": "2025-02-05",
+    "return_reason": "changed_mind",
+    "refund_amount": 89.47,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000023",
+    "order_id": "O000401",
+    "return_date": "2025-01-24",
+    "return_reason": "defective",
+    "refund_amount": 279.91,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000024",
+    "order_id": "O000403",
+    "return_date": "2025-01-16",
+    "return_reason": "defective",
+    "refund_amount": 113.8,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000025",
+    "order_id": "O000433",
+    "return_date": "2025-01-31",
+    "return_reason": "changed_mind",
+    "refund_amount": 400.58,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000026",
+    "order_id": "O000489",
+    "return_date": "2025-02-05",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 34.84,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000027",
+    "order_id": "O000490",
+    "return_date": "2025-01-25",
+    "return_reason": "not_as_described",
+    "refund_amount": 71.65,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000028",
+    "order_id": "O000528",
+    "return_date": "2025-02-19",
+    "return_reason": "not_as_described",
+    "refund_amount": 138.95,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000029",
+    "order_id": "O000535",
+    "return_date": "2025-02-23",
+    "return_reason": "wrong_size",
+    "refund_amount": 224.65,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000030",
+    "order_id": "O000538",
+    "return_date": "2025-03-13",
+    "return_reason": "wrong_size",
+    "refund_amount": 30.42,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000031",
+    "order_id": "O000540",
+    "return_date": "2025-03-02",
+    "return_reason": "wrong_size",
+    "refund_amount": 90.33,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000032",
+    "order_id": "O000542",
+    "return_date": "2025-03-03",
+    "return_reason": "wrong_size",
+    "refund_amount": 123.86,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000033",
+    "order_id": "O000546",
+    "return_date": "2025-02-21",
+    "return_reason": "wrong_size",
+    "refund_amount": 113.61,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000034",
+    "order_id": "O000547",
+    "return_date": "2025-03-05",
+    "return_reason": "wrong_size",
+    "refund_amount": 169.58,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000035",
+    "order_id": "O000562",
+    "return_date": "2025-02-18",
+    "return_reason": "wrong_size",
+    "refund_amount": 81.59,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000036",
+    "order_id": "O000570",
+    "return_date": "2025-02-16",
+    "return_reason": "wrong_size",
+    "refund_amount": 157.28,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000037",
+    "order_id": "O000585",
+    "return_date": "2025-02-09",
+    "return_reason": "not_as_described",
+    "refund_amount": 63.63,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000038",
+    "order_id": "O000596",
+    "return_date": "2025-03-14",
+    "return_reason": "changed_mind",
+    "refund_amount": 109.35,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000039",
+    "order_id": "O000603",
+    "return_date": "2025-02-17",
+    "return_reason": "wrong_size",
+    "refund_amount": 62.5,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000040",
+    "order_id": "O000605",
+    "return_date": "2025-03-10",
+    "return_reason": "changed_mind",
+    "refund_amount": 56.03,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000041",
+    "order_id": "O000607",
+    "return_date": "2025-03-14",
+    "return_reason": "not_as_described",
+    "refund_amount": 54.14,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000042",
+    "order_id": "O000619",
+    "return_date": "2025-03-05",
+    "return_reason": "defective",
+    "refund_amount": 31.6,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000043",
+    "order_id": "O000623",
+    "return_date": "2025-03-06",
+    "return_reason": "defective",
+    "refund_amount": 363.42,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000044",
+    "order_id": "O000627",
+    "return_date": "2025-03-01",
+    "return_reason": "defective",
+    "refund_amount": 160.01,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000045",
+    "order_id": "O000636",
+    "return_date": "2025-02-10",
+    "return_reason": "defective",
+    "refund_amount": 97.98,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000046",
+    "order_id": "O000639",
+    "return_date": "2025-02-16",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 389.98,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000047",
+    "order_id": "O000642",
+    "return_date": "2025-03-08",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 80.69,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000048",
+    "order_id": "O000648",
+    "return_date": "2025-02-25",
+    "return_reason": "changed_mind",
+    "refund_amount": 31.77,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000049",
+    "order_id": "O000652",
+    "return_date": "2025-03-05",
+    "return_reason": "defective",
+    "refund_amount": 205.79,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000050",
+    "order_id": "O000653",
+    "return_date": "2025-02-21",
+    "return_reason": "not_as_described",
+    "refund_amount": 458.44,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000051",
+    "order_id": "O000658",
+    "return_date": "2025-03-03",
+    "return_reason": "defective",
+    "refund_amount": 68.07,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000052",
+    "order_id": "O000660",
+    "return_date": "2025-02-21",
+    "return_reason": "not_as_described",
+    "refund_amount": 380.33,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000053",
+    "order_id": "O000661",
+    "return_date": "2025-03-09",
+    "return_reason": "defective",
+    "refund_amount": 80.05,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000054",
+    "order_id": "O000662",
+    "return_date": "2025-02-25",
+    "return_reason": "defective",
+    "refund_amount": 202.19,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000055",
+    "order_id": "O000669",
+    "return_date": "2025-02-25",
+    "return_reason": "not_as_described",
+    "refund_amount": 324.74,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000056",
+    "order_id": "O000670",
+    "return_date": "2025-02-22",
+    "return_reason": "defective",
+    "refund_amount": 206.14,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000057",
+    "order_id": "O000678",
+    "return_date": "2025-02-22",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 114.66,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000058",
+    "order_id": "O000682",
+    "return_date": "2025-03-05",
+    "return_reason": "not_as_described",
+    "refund_amount": 159.14,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000059",
+    "order_id": "O000720",
+    "return_date": "2025-02-10",
+    "return_reason": "not_as_described",
+    "refund_amount": 198.56,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000060",
+    "order_id": "O000759",
+    "return_date": "2025-03-03",
+    "return_reason": "changed_mind",
+    "refund_amount": 20.13,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000061",
+    "order_id": "O000767",
+    "return_date": "2025-02-24",
+    "return_reason": "not_as_described",
+    "refund_amount": 210.31,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000062",
+    "order_id": "O000771",
+    "return_date": "2025-02-27",
+    "return_reason": "changed_mind",
+    "refund_amount": 163.59,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000063",
+    "order_id": "O000776",
+    "return_date": "2025-03-12",
+    "return_reason": "not_as_described",
+    "refund_amount": 93.74,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000064",
+    "order_id": "O000799",
+    "return_date": "2025-02-17",
+    "return_reason": "changed_mind",
+    "refund_amount": 132.64,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000065",
+    "order_id": "O000820",
+    "return_date": "2025-02-21",
+    "return_reason": "changed_mind",
+    "refund_amount": 115.1,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000066",
+    "order_id": "O000826",
+    "return_date": "2025-02-11",
+    "return_reason": "not_as_described",
+    "refund_amount": 110.92,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000067",
+    "order_id": "O000889",
+    "return_date": "2025-02-25",
+    "return_reason": "not_as_described",
+    "refund_amount": 133.22,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000068",
+    "order_id": "O000919",
+    "return_date": "2025-03-09",
+    "return_reason": "defective",
+    "refund_amount": 13.96,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000069",
+    "order_id": "O000927",
+    "return_date": "2025-02-21",
+    "return_reason": "defective",
+    "refund_amount": 90.96,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000070",
+    "order_id": "O000999",
+    "return_date": "2025-02-26",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 25.68,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000071",
+    "order_id": "O001010",
+    "return_date": "2025-02-18",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 6.51,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000072",
+    "order_id": "O001032",
+    "return_date": "2025-03-23",
+    "return_reason": "wrong_size",
+    "refund_amount": 105.21,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000073",
+    "order_id": "O001038",
+    "return_date": "2025-04-02",
+    "return_reason": "wrong_size",
+    "refund_amount": 65.56,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000074",
+    "order_id": "O001062",
+    "return_date": "2025-03-21",
+    "return_reason": "not_as_described",
+    "refund_amount": 91.2,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000075",
+    "order_id": "O001072",
+    "return_date": "2025-03-16",
+    "return_reason": "changed_mind",
+    "refund_amount": 60.26,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000076",
+    "order_id": "O001076",
+    "return_date": "2025-03-19",
+    "return_reason": "wrong_size",
+    "refund_amount": 62.46,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000077",
+    "order_id": "O001080",
+    "return_date": "2025-03-29",
+    "return_reason": "not_as_described",
+    "refund_amount": 233.75,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000078",
+    "order_id": "O001097",
+    "return_date": "2025-03-11",
+    "return_reason": "wrong_size",
+    "refund_amount": 31.99,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000079",
+    "order_id": "O001098",
+    "return_date": "2025-03-19",
+    "return_reason": "wrong_size",
+    "refund_amount": 232.95,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000080",
+    "order_id": "O001100",
+    "return_date": "2025-03-20",
+    "return_reason": "changed_mind",
+    "refund_amount": 77.98,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000081",
+    "order_id": "O001110",
+    "return_date": "2025-03-08",
+    "return_reason": "not_as_described",
+    "refund_amount": 178.81,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000082",
+    "order_id": "O001114",
+    "return_date": "2025-03-28",
+    "return_reason": "not_as_described",
+    "refund_amount": 203.37,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000083",
+    "order_id": "O001121",
+    "return_date": "2025-03-18",
+    "return_reason": "wrong_size",
+    "refund_amount": 200.52,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000084",
+    "order_id": "O001127",
+    "return_date": "2025-04-02",
+    "return_reason": "wrong_size",
+    "refund_amount": 146.52,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000085",
+    "order_id": "O001128",
+    "return_date": "2025-04-06",
+    "return_reason": "not_as_described",
+    "refund_amount": 36.98,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000086",
+    "order_id": "O001132",
+    "return_date": "2025-04-04",
+    "return_reason": "changed_mind",
+    "refund_amount": 85.23,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000087",
+    "order_id": "O001134",
+    "return_date": "2025-04-02",
+    "return_reason": "defective",
+    "refund_amount": 34.41,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000088",
+    "order_id": "O001135",
+    "return_date": "2025-03-28",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 75.24,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000089",
+    "order_id": "O001136",
+    "return_date": "2025-04-08",
+    "return_reason": "defective",
+    "refund_amount": 95.48,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000090",
+    "order_id": "O001144",
+    "return_date": "2025-03-25",
+    "return_reason": "defective",
+    "refund_amount": 66.17,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000091",
+    "order_id": "O001153",
+    "return_date": "2025-04-10",
+    "return_reason": "changed_mind",
+    "refund_amount": 189.62,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000092",
+    "order_id": "O001161",
+    "return_date": "2025-03-31",
+    "return_reason": "not_as_described",
+    "refund_amount": 143.42,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000093",
+    "order_id": "O001169",
+    "return_date": "2025-03-15",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 250.61,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000094",
+    "order_id": "O001171",
+    "return_date": "2025-03-12",
+    "return_reason": "defective",
+    "refund_amount": 115.73,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000095",
+    "order_id": "O001172",
+    "return_date": "2025-04-03",
+    "return_reason": "defective",
+    "refund_amount": 50.5,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000096",
+    "order_id": "O001180",
+    "return_date": "2025-03-27",
+    "return_reason": "defective",
+    "refund_amount": 470.98,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000097",
+    "order_id": "O001189",
+    "return_date": "2025-03-28",
+    "return_reason": "not_as_described",
+    "refund_amount": 144.47,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000098",
+    "order_id": "O001192",
+    "return_date": "2025-03-25",
+    "return_reason": "defective",
+    "refund_amount": 562.36,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000099",
+    "order_id": "O001203",
+    "return_date": "2025-03-21",
+    "return_reason": "defective",
+    "refund_amount": 314.42,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000100",
+    "order_id": "O001204",
+    "return_date": "2025-03-20",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 146.59,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000101",
+    "order_id": "O001227",
+    "return_date": "2025-03-21",
+    "return_reason": "not_as_described",
+    "refund_amount": 17.18,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000102",
+    "order_id": "O001239",
+    "return_date": "2025-03-26",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 207.76,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000103",
+    "order_id": "O001265",
+    "return_date": "2025-04-01",
+    "return_reason": "changed_mind",
+    "refund_amount": 157.84,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000104",
+    "order_id": "O001273",
+    "return_date": "2025-03-21",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 17.16,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000105",
+    "order_id": "O001353",
+    "return_date": "2025-03-15",
+    "return_reason": "changed_mind",
+    "refund_amount": 109.88,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000106",
+    "order_id": "O001372",
+    "return_date": "2025-03-07",
+    "return_reason": "changed_mind",
+    "refund_amount": 95.15,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000107",
+    "order_id": "O001388",
+    "return_date": "2025-04-11",
+    "return_reason": "changed_mind",
+    "refund_amount": 101.83,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000108",
+    "order_id": "O001401",
+    "return_date": "2025-03-26",
+    "return_reason": "changed_mind",
+    "refund_amount": 83.09,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000109",
+    "order_id": "O001403",
+    "return_date": "2025-03-05",
+    "return_reason": "defective",
+    "refund_amount": 255.8,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000110",
+    "order_id": "O001407",
+    "return_date": "2025-03-23",
+    "return_reason": "changed_mind",
+    "refund_amount": 114.12,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000111",
+    "order_id": "O001410",
+    "return_date": "2025-04-04",
+    "return_reason": "not_as_described",
+    "refund_amount": 271.05,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000112",
+    "order_id": "O001417",
+    "return_date": "2025-04-07",
+    "return_reason": "defective",
+    "refund_amount": 297.61,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000113",
+    "order_id": "O001428",
+    "return_date": "2025-04-05",
+    "return_reason": "changed_mind",
+    "refund_amount": 29.17,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000114",
+    "order_id": "O001429",
+    "return_date": "2025-03-30",
+    "return_reason": "defective",
+    "refund_amount": 311.92,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000115",
+    "order_id": "O001435",
+    "return_date": "2025-04-01",
+    "return_reason": "not_as_described",
+    "refund_amount": 87.72,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000116",
+    "order_id": "O001438",
+    "return_date": "2025-03-09",
+    "return_reason": "changed_mind",
+    "refund_amount": 99.73,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000117",
+    "order_id": "O001446",
+    "return_date": "2025-03-19",
+    "return_reason": "changed_mind",
+    "refund_amount": 284.72,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000118",
+    "order_id": "O001475",
+    "return_date": "2025-04-02",
+    "return_reason": "changed_mind",
+    "refund_amount": 50.47,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000119",
+    "order_id": "O001477",
+    "return_date": "2025-03-20",
+    "return_reason": "changed_mind",
+    "refund_amount": 91.48,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000120",
+    "order_id": "O001486",
+    "return_date": "2025-03-19",
+    "return_reason": "changed_mind",
+    "refund_amount": 56.2,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000121",
+    "order_id": "O001487",
+    "return_date": "2025-03-20",
+    "return_reason": "defective",
+    "refund_amount": 114.69,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000122",
+    "order_id": "O001509",
+    "return_date": "2025-04-05",
+    "return_reason": "not_as_described",
+    "refund_amount": 62.5,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000123",
+    "order_id": "O001551",
+    "return_date": "2025-03-16",
+    "return_reason": "not_as_described",
+    "refund_amount": 6.96,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000124",
+    "order_id": "O001561",
+    "return_date": "2025-04-09",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 63.21,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000125",
+    "order_id": "O001592",
+    "return_date": "2025-04-15",
+    "return_reason": "wrong_size",
+    "refund_amount": 154.24,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000126",
+    "order_id": "O001599",
+    "return_date": "2025-04-15",
+    "return_reason": "wrong_size",
+    "refund_amount": 104.97,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000127",
+    "order_id": "O001607",
+    "return_date": "2025-04-18",
+    "return_reason": "wrong_size",
+    "refund_amount": 194.59,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000128",
+    "order_id": "O001611",
+    "return_date": "2025-05-08",
+    "return_reason": "wrong_size",
+    "refund_amount": 155.13,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000129",
+    "order_id": "O001615",
+    "return_date": "2025-04-16",
+    "return_reason": "changed_mind",
+    "refund_amount": 61.79,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000130",
+    "order_id": "O001617",
+    "return_date": "2025-04-18",
+    "return_reason": "wrong_size",
+    "refund_amount": 85.2,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000131",
+    "order_id": "O001633",
+    "return_date": "2025-04-05",
+    "return_reason": "changed_mind",
+    "refund_amount": 169.53,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000132",
+    "order_id": "O001635",
+    "return_date": "2025-04-22",
+    "return_reason": "wrong_size",
+    "refund_amount": 254.81,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000133",
+    "order_id": "O001645",
+    "return_date": "2025-04-17",
+    "return_reason": "wrong_size",
+    "refund_amount": 236.77,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000134",
+    "order_id": "O001649",
+    "return_date": "2025-05-10",
+    "return_reason": "changed_mind",
+    "refund_amount": 51.62,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000135",
+    "order_id": "O001654",
+    "return_date": "2025-04-24",
+    "return_reason": "not_as_described",
+    "refund_amount": 19.3,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000136",
+    "order_id": "O001655",
+    "return_date": "2025-05-06",
+    "return_reason": "changed_mind",
+    "refund_amount": 85.56,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000137",
+    "order_id": "O001656",
+    "return_date": "2025-05-03",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 145.16,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000138",
+    "order_id": "O001657",
+    "return_date": "2025-04-29",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 57.03,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000139",
+    "order_id": "O001659",
+    "return_date": "2025-04-28",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 143.25,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000140",
+    "order_id": "O001661",
+    "return_date": "2025-04-24",
+    "return_reason": "changed_mind",
+    "refund_amount": 83.51,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000141",
+    "order_id": "O001663",
+    "return_date": "2025-05-12",
+    "return_reason": "wrong_size",
+    "refund_amount": 120.96,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000142",
+    "order_id": "O001664",
+    "return_date": "2025-04-20",
+    "return_reason": "wrong_size",
+    "refund_amount": 185.85,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000143",
+    "order_id": "O001671",
+    "return_date": "2025-04-28",
+    "return_reason": "wrong_size",
+    "refund_amount": 228.85,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000144",
+    "order_id": "O001674",
+    "return_date": "2025-04-23",
+    "return_reason": "wrong_size",
+    "refund_amount": 84.55,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000145",
+    "order_id": "O001677",
+    "return_date": "2025-04-06",
+    "return_reason": "wrong_size",
+    "refund_amount": 169.23,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000146",
+    "order_id": "O001680",
+    "return_date": "2025-05-14",
+    "return_reason": "not_as_described",
+    "refund_amount": 86.63,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000147",
+    "order_id": "O001683",
+    "return_date": "2025-04-28",
+    "return_reason": "defective",
+    "refund_amount": 200.55,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000148",
+    "order_id": "O001686",
+    "return_date": "2025-04-18",
+    "return_reason": "changed_mind",
+    "refund_amount": 442.07,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000149",
+    "order_id": "O001689",
+    "return_date": "2025-04-19",
+    "return_reason": "defective",
+    "refund_amount": 97.94,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000150",
+    "order_id": "O001691",
+    "return_date": "2025-05-12",
+    "return_reason": "defective",
+    "refund_amount": 340.01,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000151",
+    "order_id": "O001702",
+    "return_date": "2025-05-09",
+    "return_reason": "not_as_described",
+    "refund_amount": 222.11,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000152",
+    "order_id": "O001705",
+    "return_date": "2025-04-29",
+    "return_reason": "defective",
+    "refund_amount": 199.09,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000153",
+    "order_id": "O001710",
+    "return_date": "2025-04-08",
+    "return_reason": "defective",
+    "refund_amount": 177.3,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000154",
+    "order_id": "O001712",
+    "return_date": "2025-05-09",
+    "return_reason": "defective",
+    "refund_amount": 379.97,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000155",
+    "order_id": "O001716",
+    "return_date": "2025-04-18",
+    "return_reason": "changed_mind",
+    "refund_amount": 416.73,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000156",
+    "order_id": "O001721",
+    "return_date": "2025-05-05",
+    "return_reason": "defective",
+    "refund_amount": 68.07,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000157",
+    "order_id": "O001730",
+    "return_date": "2025-04-30",
+    "return_reason": "defective",
+    "refund_amount": 64.83,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000158",
+    "order_id": "O001733",
+    "return_date": "2025-04-11",
+    "return_reason": "defective",
+    "refund_amount": 31.17,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000159",
+    "order_id": "O001746",
+    "return_date": "2025-04-22",
+    "return_reason": "changed_mind",
+    "refund_amount": 297.69,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000160",
+    "order_id": "O001748",
+    "return_date": "2025-04-30",
+    "return_reason": "defective",
+    "refund_amount": 534.21,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000161",
+    "order_id": "O001753",
+    "return_date": "2025-05-10",
+    "return_reason": "defective",
+    "refund_amount": 240.3,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000162",
+    "order_id": "O001761",
+    "return_date": "2025-05-08",
+    "return_reason": "defective",
+    "refund_amount": 477.46,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000163",
+    "order_id": "O001765",
+    "return_date": "2025-04-27",
+    "return_reason": "defective",
+    "refund_amount": 126.41,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000164",
+    "order_id": "O001772",
+    "return_date": "2025-04-27",
+    "return_reason": "defective",
+    "refund_amount": 50.39,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000165",
+    "order_id": "O001778",
+    "return_date": "2025-05-02",
+    "return_reason": "defective",
+    "refund_amount": 170.6,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000166",
+    "order_id": "O001782",
+    "return_date": "2025-04-17",
+    "return_reason": "defective",
+    "refund_amount": 323.73,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000167",
+    "order_id": "O001789",
+    "return_date": "2025-05-14",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 31.43,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000168",
+    "order_id": "O001811",
+    "return_date": "2025-04-24",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 268.02,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000169",
+    "order_id": "O001831",
+    "return_date": "2025-05-08",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 310.81,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000170",
+    "order_id": "O001871",
+    "return_date": "2025-04-12",
+    "return_reason": "changed_mind",
+    "refund_amount": 174.61,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000171",
+    "order_id": "O001889",
+    "return_date": "2025-05-11",
+    "return_reason": "not_as_described",
+    "refund_amount": 14.15,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000172",
+    "order_id": "O001915",
+    "return_date": "2025-05-01",
+    "return_reason": "not_as_described",
+    "refund_amount": 110.1,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000173",
+    "order_id": "O001933",
+    "return_date": "2025-04-22",
+    "return_reason": "not_as_described",
+    "refund_amount": 32.86,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000174",
+    "order_id": "O001981",
+    "return_date": "2025-04-30",
+    "return_reason": "not_as_described",
+    "refund_amount": 271.03,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000175",
+    "order_id": "O001985",
+    "return_date": "2025-04-25",
+    "return_reason": "changed_mind",
+    "refund_amount": 256.88,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000176",
+    "order_id": "O002026",
+    "return_date": "2025-04-26",
+    "return_reason": "changed_mind",
+    "refund_amount": 93.84,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000177",
+    "order_id": "O002045",
+    "return_date": "2025-04-06",
+    "return_reason": "changed_mind",
+    "refund_amount": 271.31,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000178",
+    "order_id": "O002054",
+    "return_date": "2025-04-28",
+    "return_reason": "not_as_described",
+    "refund_amount": 327.88,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000179",
+    "order_id": "O002059",
+    "return_date": "2025-04-27",
+    "return_reason": "not_as_described",
+    "refund_amount": 309.47,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000180",
+    "order_id": "O002087",
+    "return_date": "2025-04-17",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 12.56,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000181",
+    "order_id": "O002119",
+    "return_date": "2025-04-27",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 60.28,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000182",
+    "order_id": "O002133",
+    "return_date": "2025-04-18",
+    "return_reason": "not_as_described",
+    "refund_amount": 18.1,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000183",
+    "order_id": "O002142",
+    "return_date": "2025-05-23",
+    "return_reason": "not_as_described",
+    "refund_amount": 177.37,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000184",
+    "order_id": "O002148",
+    "return_date": "2025-05-16",
+    "return_reason": "wrong_size",
+    "refund_amount": 94.14,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000185",
+    "order_id": "O002152",
+    "return_date": "2025-06-10",
+    "return_reason": "changed_mind",
+    "refund_amount": 180.39,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000186",
+    "order_id": "O002153",
+    "return_date": "2025-06-04",
+    "return_reason": "changed_mind",
+    "refund_amount": 104.01,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000187",
+    "order_id": "O002164",
+    "return_date": "2025-05-28",
+    "return_reason": "wrong_size",
+    "refund_amount": 75.9,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000188",
+    "order_id": "O002168",
+    "return_date": "2025-05-23",
+    "return_reason": "not_as_described",
+    "refund_amount": 248.75,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000189",
+    "order_id": "O002181",
+    "return_date": "2025-05-22",
+    "return_reason": "wrong_size",
+    "refund_amount": 193.11,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000190",
+    "order_id": "O002182",
+    "return_date": "2025-05-25",
+    "return_reason": "wrong_size",
+    "refund_amount": 37.8,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000191",
+    "order_id": "O002186",
+    "return_date": "2025-06-09",
+    "return_reason": "wrong_size",
+    "refund_amount": 115.33,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000192",
+    "order_id": "O002187",
+    "return_date": "2025-05-20",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 150.15,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000193",
+    "order_id": "O002190",
+    "return_date": "2025-06-02",
+    "return_reason": "wrong_size",
+    "refund_amount": 94.32,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000194",
+    "order_id": "O002191",
+    "return_date": "2025-05-14",
+    "return_reason": "not_as_described",
+    "refund_amount": 188.47,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000195",
+    "order_id": "O002195",
+    "return_date": "2025-05-14",
+    "return_reason": "wrong_size",
+    "refund_amount": 221.25,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000196",
+    "order_id": "O002197",
+    "return_date": "2025-05-13",
+    "return_reason": "wrong_size",
+    "refund_amount": 62.29,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000197",
+    "order_id": "O002200",
+    "return_date": "2025-05-27",
+    "return_reason": "wrong_size",
+    "refund_amount": 84.14,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000198",
+    "order_id": "O002202",
+    "return_date": "2025-05-14",
+    "return_reason": "not_as_described",
+    "refund_amount": 50.86,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000199",
+    "order_id": "O002203",
+    "return_date": "2025-05-24",
+    "return_reason": "wrong_size",
+    "refund_amount": 112.93,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000200",
+    "order_id": "O002204",
+    "return_date": "2025-05-24",
+    "return_reason": "wrong_size",
+    "refund_amount": 132.67,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000201",
+    "order_id": "O002208",
+    "return_date": "2025-06-11",
+    "return_reason": "changed_mind",
+    "refund_amount": 59.01,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000202",
+    "order_id": "O002209",
+    "return_date": "2025-06-12",
+    "return_reason": "wrong_size",
+    "refund_amount": 59.97,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000203",
+    "order_id": "O002210",
+    "return_date": "2025-05-27",
+    "return_reason": "not_as_described",
+    "refund_amount": 26.85,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000204",
+    "order_id": "O002215",
+    "return_date": "2025-06-10",
+    "return_reason": "wrong_size",
+    "refund_amount": 29.99,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000205",
+    "order_id": "O002217",
+    "return_date": "2025-05-16",
+    "return_reason": "wrong_size",
+    "refund_amount": 38.89,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000206",
+    "order_id": "O002220",
+    "return_date": "2025-06-02",
+    "return_reason": "wrong_size",
+    "refund_amount": 132.31,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000207",
+    "order_id": "O002223",
+    "return_date": "2025-06-10",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 27.8,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000208",
+    "order_id": "O002227",
+    "return_date": "2025-05-27",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 81.87,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000209",
+    "order_id": "O002230",
+    "return_date": "2025-05-18",
+    "return_reason": "not_as_described",
+    "refund_amount": 232.42,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000210",
+    "order_id": "O002232",
+    "return_date": "2025-05-24",
+    "return_reason": "defective",
+    "refund_amount": 34.25,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000211",
+    "order_id": "O002235",
+    "return_date": "2025-06-05",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 149.99,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000212",
+    "order_id": "O002247",
+    "return_date": "2025-05-21",
+    "return_reason": "defective",
+    "refund_amount": 322.2,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000213",
+    "order_id": "O002249",
+    "return_date": "2025-05-28",
+    "return_reason": "not_as_described",
+    "refund_amount": 167.86,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000214",
+    "order_id": "O002272",
+    "return_date": "2025-05-21",
+    "return_reason": "not_as_described",
+    "refund_amount": 567.93,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000215",
+    "order_id": "O002274",
+    "return_date": "2025-05-10",
+    "return_reason": "changed_mind",
+    "refund_amount": 68.52,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000216",
+    "order_id": "O002289",
+    "return_date": "2025-05-22",
+    "return_reason": "defective",
+    "refund_amount": 140.35,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000217",
+    "order_id": "O002290",
+    "return_date": "2025-05-15",
+    "return_reason": "defective",
+    "refund_amount": 48.43,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000218",
+    "order_id": "O002292",
+    "return_date": "2025-05-31",
+    "return_reason": "defective",
+    "refund_amount": 397.14,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000219",
+    "order_id": "O002296",
+    "return_date": "2025-06-10",
+    "return_reason": "changed_mind",
+    "refund_amount": 97.37,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000220",
+    "order_id": "O002298",
+    "return_date": "2025-05-12",
+    "return_reason": "not_as_described",
+    "refund_amount": 235.75,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000221",
+    "order_id": "O002304",
+    "return_date": "2025-05-22",
+    "return_reason": "changed_mind",
+    "refund_amount": 143.18,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000222",
+    "order_id": "O002313",
+    "return_date": "2025-05-19",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 320.15,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000223",
+    "order_id": "O002362",
+    "return_date": "2025-05-28",
+    "return_reason": "not_as_described",
+    "refund_amount": 38.22,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000224",
+    "order_id": "O002371",
+    "return_date": "2025-05-10",
+    "return_reason": "not_as_described",
+    "refund_amount": 130.92,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000225",
+    "order_id": "O002391",
+    "return_date": "2025-05-11",
+    "return_reason": "changed_mind",
+    "refund_amount": 95.17,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000226",
+    "order_id": "O002477",
+    "return_date": "2025-05-23",
+    "return_reason": "not_as_described",
+    "refund_amount": 31.4,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000227",
+    "order_id": "O002510",
+    "return_date": "2025-05-31",
+    "return_reason": "defective",
+    "refund_amount": 56.41,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000228",
+    "order_id": "O002512",
+    "return_date": "2025-06-03",
+    "return_reason": "changed_mind",
+    "refund_amount": 274.12,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000229",
+    "order_id": "O002517",
+    "return_date": "2025-05-26",
+    "return_reason": "changed_mind",
+    "refund_amount": 167.02,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000230",
+    "order_id": "O002546",
+    "return_date": "2025-06-04",
+    "return_reason": "changed_mind",
+    "refund_amount": 129.79,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000231",
+    "order_id": "O002582",
+    "return_date": "2025-05-10",
+    "return_reason": "not_as_described",
+    "refund_amount": 33.76,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000232",
+    "order_id": "O002590",
+    "return_date": "2025-06-13",
+    "return_reason": "defective",
+    "refund_amount": 86.71,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000233",
+    "order_id": "O002608",
+    "return_date": "2025-05-16",
+    "return_reason": "not_as_described",
+    "refund_amount": 299.05,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000234",
+    "order_id": "O002631",
+    "return_date": "2025-06-06",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 6.55,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000235",
+    "order_id": "O002659",
+    "return_date": "2025-05-12",
+    "return_reason": "not_as_described",
+    "refund_amount": 21.52,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000236",
+    "order_id": "O002684",
+    "return_date": "2025-05-21",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 62.04,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000237",
+    "order_id": "O002710",
+    "return_date": "2025-07-11",
+    "return_reason": "changed_mind",
+    "refund_amount": 69.98,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000238",
+    "order_id": "O002712",
+    "return_date": "2025-06-20",
+    "return_reason": "wrong_size",
+    "refund_amount": 183.27,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000239",
+    "order_id": "O002715",
+    "return_date": "2025-06-18",
+    "return_reason": "changed_mind",
+    "refund_amount": 70.27,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000240",
+    "order_id": "O002717",
+    "return_date": "2025-07-07",
+    "return_reason": "changed_mind",
+    "refund_amount": 85.65,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000241",
+    "order_id": "O002718",
+    "return_date": "2025-07-11",
+    "return_reason": "wrong_size",
+    "refund_amount": 31.54,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000242",
+    "order_id": "O002720",
+    "return_date": "2025-06-22",
+    "return_reason": "wrong_size",
+    "refund_amount": 63.03,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000243",
+    "order_id": "O002722",
+    "return_date": "2025-06-16",
+    "return_reason": "not_as_described",
+    "refund_amount": 75.23,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000244",
+    "order_id": "O002726",
+    "return_date": "2025-07-11",
+    "return_reason": "wrong_size",
+    "refund_amount": 85.51,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000245",
+    "order_id": "O002728",
+    "return_date": "2025-06-21",
+    "return_reason": "not_as_described",
+    "refund_amount": 86.39,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000246",
+    "order_id": "O002731",
+    "return_date": "2025-07-05",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 123.04,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000247",
+    "order_id": "O002735",
+    "return_date": "2025-07-04",
+    "return_reason": "changed_mind",
+    "refund_amount": 55.48,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000248",
+    "order_id": "O002739",
+    "return_date": "2025-07-02",
+    "return_reason": "changed_mind",
+    "refund_amount": 89.49,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000249",
+    "order_id": "O002741",
+    "return_date": "2025-07-03",
+    "return_reason": "wrong_size",
+    "refund_amount": 182.47,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000250",
+    "order_id": "O002743",
+    "return_date": "2025-06-19",
+    "return_reason": "wrong_size",
+    "refund_amount": 37.41,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000251",
+    "order_id": "O002746",
+    "return_date": "2025-06-25",
+    "return_reason": "changed_mind",
+    "refund_amount": 93.29,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000252",
+    "order_id": "O002751",
+    "return_date": "2025-07-16",
+    "return_reason": "wrong_size",
+    "refund_amount": 109.23,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000253",
+    "order_id": "O002756",
+    "return_date": "2025-07-07",
+    "return_reason": "wrong_size",
+    "refund_amount": 60.85,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000254",
+    "order_id": "O002758",
+    "return_date": "2025-06-12",
+    "return_reason": "wrong_size",
+    "refund_amount": 60.08,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000255",
+    "order_id": "O002763",
+    "return_date": "2025-07-14",
+    "return_reason": "wrong_size",
+    "refund_amount": 28.87,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000256",
+    "order_id": "O002780",
+    "return_date": "2025-06-30",
+    "return_reason": "changed_mind",
+    "refund_amount": 256.95,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000257",
+    "order_id": "O002781",
+    "return_date": "2025-07-11",
+    "return_reason": "wrong_size",
+    "refund_amount": 256.32,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000258",
+    "order_id": "O002783",
+    "return_date": "2025-06-07",
+    "return_reason": "changed_mind",
+    "refund_amount": 57.06,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000259",
+    "order_id": "O002784",
+    "return_date": "2025-07-04",
+    "return_reason": "wrong_size",
+    "refund_amount": 35.3,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000260",
+    "order_id": "O002787",
+    "return_date": "2025-06-18",
+    "return_reason": "wrong_size",
+    "refund_amount": 59.26,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000261",
+    "order_id": "O002791",
+    "return_date": "2025-06-08",
+    "return_reason": "wrong_size",
+    "refund_amount": 228.44,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000262",
+    "order_id": "O002795",
+    "return_date": "2025-06-28",
+    "return_reason": "wrong_size",
+    "refund_amount": 28.78,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000263",
+    "order_id": "O002797",
+    "return_date": "2025-06-24",
+    "return_reason": "defective",
+    "refund_amount": 143.99,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000264",
+    "order_id": "O002799",
+    "return_date": "2025-07-13",
+    "return_reason": "defective",
+    "refund_amount": 153.55,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000265",
+    "order_id": "O002802",
+    "return_date": "2025-07-06",
+    "return_reason": "defective",
+    "refund_amount": 93.9,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000266",
+    "order_id": "O002803",
+    "return_date": "2025-06-24",
+    "return_reason": "defective",
+    "refund_amount": 63.39,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000267",
+    "order_id": "O002805",
+    "return_date": "2025-07-09",
+    "return_reason": "not_as_described",
+    "refund_amount": 222.88,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000268",
+    "order_id": "O002809",
+    "return_date": "2025-06-30",
+    "return_reason": "defective",
+    "refund_amount": 308.95,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000269",
+    "order_id": "O002812",
+    "return_date": "2025-06-21",
+    "return_reason": "changed_mind",
+    "refund_amount": 619.73,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000270",
+    "order_id": "O002816",
+    "return_date": "2025-06-20",
+    "return_reason": "defective",
+    "refund_amount": 367.88,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000271",
+    "order_id": "O002826",
+    "return_date": "2025-06-11",
+    "return_reason": "defective",
+    "refund_amount": 672.48,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000272",
+    "order_id": "O002828",
+    "return_date": "2025-06-17",
+    "return_reason": "defective",
+    "refund_amount": 217.34,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000273",
+    "order_id": "O002830",
+    "return_date": "2025-07-08",
+    "return_reason": "defective",
+    "refund_amount": 234.16,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000274",
+    "order_id": "O002839",
+    "return_date": "2025-06-28",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 501.9,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000275",
+    "order_id": "O002845",
+    "return_date": "2025-06-23",
+    "return_reason": "defective",
+    "refund_amount": 174.68,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000276",
+    "order_id": "O002847",
+    "return_date": "2025-06-13",
+    "return_reason": "defective",
+    "refund_amount": 175.54,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000277",
+    "order_id": "O002848",
+    "return_date": "2025-07-04",
+    "return_reason": "defective",
+    "refund_amount": 249.76,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000278",
+    "order_id": "O002860",
+    "return_date": "2025-06-17",
+    "return_reason": "defective",
+    "refund_amount": 66.82,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000279",
+    "order_id": "O002865",
+    "return_date": "2025-06-26",
+    "return_reason": "changed_mind",
+    "refund_amount": 525.97,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000280",
+    "order_id": "O002866",
+    "return_date": "2025-07-06",
+    "return_reason": "defective",
+    "refund_amount": 397.52,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000281",
+    "order_id": "O002870",
+    "return_date": "2025-07-13",
+    "return_reason": "defective",
+    "refund_amount": 325.1,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000282",
+    "order_id": "O002872",
+    "return_date": "2025-06-14",
+    "return_reason": "defective",
+    "refund_amount": 59.84,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000283",
+    "order_id": "O002930",
+    "return_date": "2025-06-13",
+    "return_reason": "not_as_described",
+    "refund_amount": 160.51,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000284",
+    "order_id": "O002965",
+    "return_date": "2025-07-04",
+    "return_reason": "not_as_described",
+    "refund_amount": 38.3,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000285",
+    "order_id": "O002966",
+    "return_date": "2025-06-24",
+    "return_reason": "changed_mind",
+    "refund_amount": 54.63,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000286",
+    "order_id": "O002980",
+    "return_date": "2025-07-02",
+    "return_reason": "changed_mind",
+    "refund_amount": 134.94,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000287",
+    "order_id": "O002998",
+    "return_date": "2025-07-10",
+    "return_reason": "not_as_described",
+    "refund_amount": 154.03,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000288",
+    "order_id": "O003008",
+    "return_date": "2025-06-13",
+    "return_reason": "not_as_described",
+    "refund_amount": 80.22,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000289",
+    "order_id": "O003015",
+    "return_date": "2025-06-19",
+    "return_reason": "not_as_described",
+    "refund_amount": 96.81,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000290",
+    "order_id": "O003029",
+    "return_date": "2025-06-18",
+    "return_reason": "not_as_described",
+    "refund_amount": 43.65,
+    "condition": "opened"
+  },
+  {
+    "return_id": "R000291",
+    "order_id": "O003047",
+    "return_date": "2025-06-24",
+    "return_reason": "not_as_described",
+    "refund_amount": 35.93,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000292",
+    "order_id": "O003061",
+    "return_date": "2025-07-18",
+    "return_reason": "defective",
+    "refund_amount": 273.03,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000293",
+    "order_id": "O003067",
+    "return_date": "2025-07-05",
+    "return_reason": "changed_mind",
+    "refund_amount": 31.24,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000294",
+    "order_id": "O003068",
+    "return_date": "2025-07-06",
+    "return_reason": "changed_mind",
+    "refund_amount": 258.33,
+    "condition": "unopened"
+  },
+  {
+    "return_id": "R000295",
+    "order_id": "O003160",
+    "return_date": "2025-06-14",
+    "return_reason": "damaged_in_transit",
+    "refund_amount": 22.33,
+    "condition": "damaged"
+  },
+  {
+    "return_id": "R000296",
+    "order_id": "O003193",
+    "return_date": "2025-07-04",
+    "return_reason": "not_as_described",
+    "refund_amount": 21.67,
+    "condition": "opened"
+  }
+]
